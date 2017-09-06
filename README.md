@@ -26,6 +26,13 @@ All textures, sounds, and music were made by me.
 
 This game will only work on Mac and Linux.
 
+The following SDL libraries must be installed. They are all open source.
+
+- SDL2 [https://www.libsdl.org/release/SDL2-2.0.5.tar.gz]
+- SDL2_image [https://www.libsdl.org/projects/SDL_image/release/SDL2_image-2.0.1.tar.gz]
+- SDL2_ttf [https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-2.0.14.tar.gz]
+- SDL2_mixer [https://www.libsdl.org/projects/SDL_mixer/release/SDL2_mixer-2.0.1.tar.gz]
+
 After downloading:
 
 1. Extract the tetpnc-master folder
