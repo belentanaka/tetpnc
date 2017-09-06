@@ -32,3 +32,7 @@ After downloading:
 2. Open a terminal window and cd to the folder containing the source files
 3. Use the command *make all*
 4. Run the game with the command *./tetpnc*
+
+![](screenshot2.png)
+
+**Thanks!**
