@@ -5,7 +5,7 @@ A TETRIS CLONE.
 
 # Description
 
-A Tetris clone made using Simple DirectMedia Layer. I have implemented wall kicks, holding, and high scores.
+An arcade-style Tetris clone made using Simple DirectMedia Layer. I have implemented wall kicks, holding, and high scores.
 
 All textures, sounds, and music were made by me.
 
