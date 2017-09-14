@@ -7,9 +7,6 @@
 #include <string>
 #include <time.h>
 
-int debug_time_1 = 0;
-int debug_time_2 = 0;
-
 const int SCREEN_WIDTH = 850;
 const int SCREEN_HEIGHT = 550;
 
