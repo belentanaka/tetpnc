@@ -20,7 +20,6 @@ All textures, sounds, and music were made by me.
 - *z* - Rotate the block counterclockwise.
 - *c* - Hold the block.
 - *Escape* - Pause/Unpause the game.
-- *1* - Mute/Unmute the game.
 
 # Installation
 
